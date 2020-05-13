@@ -1,6 +1,6 @@
 {
   "name": "xsrx",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Pipeable operators for xstream, with rxjs compatibility layer",
   "main": "cjs/index.js",
   "module": "index.js",
