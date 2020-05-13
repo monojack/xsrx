@@ -11,12 +11,10 @@ export { isObservable } from './internal/util/isObservable'
 
 export { combineLatest } from './internal/observable/combineLatest'
 export { concat } from './internal/observable/concat'
-export { empty } from './internal/observable/empty'
 export { from } from './internal/observable/from'
 export { fromEvent } from './internal/observable/fromEvent'
 export { interval } from './internal/observable/interval'
 export { merge } from './internal/observable/merge'
-export { never } from './internal/observable/never'
 export { of } from './internal/observable/of'
 export { throwError } from './internal/observable/throwError'
 
